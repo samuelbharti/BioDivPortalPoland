@@ -1,0 +1,51 @@
+.main-header {max-height: 50px !important; background-color:#34a0a4 !important}
+.navbar {min-height:50px !important}
+
+
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;overflow:hidden;
+  padding:3px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-weight:normal;
+  overflow:hidden;padding:3px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:right;vertical-align:top; width: 20%;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+
+
+.table.dataTable tbody tr.active td {
+  background-color: #34a0a4 !important;
+}
+
+
+img {
+    object-fit: contain !important;
+}
+  
+.nav-item {
+  font-size: 120%;
+  padding: 15px;
+  font-weight: 400;
+  margin: 5px;
+}
+
+.pimg {
+  padding: 10px;
+  margin: 10px;
+  max-height: 200px;
+  max-width: 450px;
+}
+
+body::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #fff;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #34a0a4;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid #fff;  /* creates padding around scroll thumb */
+}
