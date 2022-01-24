@@ -29,7 +29,7 @@ Technical Features:
 ---
 
 Hosting:
-Performance may very due to usage of free hosting. 
+Performance may vary due to usage of free hosting. 
 
 1. Shinyapps.io: [https://samuelbharti.shinyapps.io/BioDivPortal/](https://samuelbharti.shinyapps.io/BioDivPortal/)
 2. Docker Image: [samuelbharti/biodivportal](https://hub.docker.com/repository/docker/samuelbharti/biodivportal) 
