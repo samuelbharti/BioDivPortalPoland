@@ -1,7 +1,7 @@
 # BioDivPortal
 Bio Diversity Portal for Poland is an R Shiny application developed as part of the appsilon hiring process. The application display information on various species observed in Poland. The data is collected from [GBIF](https://www.gbif.org/).
 
-===
+---
 
 Features of BioDivPortal:
 
