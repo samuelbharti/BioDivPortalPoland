@@ -5,6 +5,8 @@ Bio Diversity Portal for Poland is an R Shiny application developed as part of t
 
 Features of BioDivPortal:
 
+https://user-images.githubusercontent.com/58329032/150747932-c5d8e5d9-0b01-4ded-a9a3-79425c0f7f11.mp4
+
 * Search or/and Select a species from curated table powered by DataTable library.
 * Visualize the occurence of that species on the map powered by Leaflet library. 
 * Purple points indicate an image is present whereas as red indicates it is not.
